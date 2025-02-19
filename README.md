@@ -1,7 +1,7 @@
 # 🚀 Awesome-Data-Efficient-LLM 🚀
 A list of data-efficient and data-centric LLM (Large Language Model) papers
 
-<img src="figs/flywheel.png" alt="flywheel" width="300"/>
+<img src="figs/flywheel.png" alt="flywheel" width="500"/>
 
 ## ❖  Paper List
 
