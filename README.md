@@ -1,8 +1,7 @@
 # 🚀 Awesome-Data-Efficient-LLM 🚀
 A list of data-efficient and data-centric LLM (Large Language Model) papers
 
-<!-- flywheel.png -->
-![flywheel](figs/flywheel.png)
+<img src="figs/flywheel.png" alt="flywheel" width="300"/>
 
 ## ❖  Paper List
 
@@ -84,7 +83,7 @@ A list of data-efficient and data-centric LLM (Large Language Model) papers
 | I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm | I - SHEEP paradigm enables LLMs to self - improve iteratively in low - resource scenarios. | Self Evolution | [link](https://arxiv.org/pdf/2408.08072) | 2024 | arxiv |
 | Language Models as Continuous Self-Evolving Data Engineers | Propose LANCE for LLMs to self - train by auto - data operations, reducing post - training cost. | Self Evolution | [link](https://arxiv.org/pdf/2412.15151) | 2024 | arxiv |
 | LLM Guided Evolution - The Automation of Models Advancing  Models | GE uses LLMs to directly modify code for model evolution. | Self Evolution | [link](https://arxiv.org/pdf/2403.11446) | 2024 | arxiv |
-| LLM-Evolve: Evaluation for LLM’s Evolving Capability on Benchmarks | Proposes LLM - Evolve framework to evaluate LLMs' evolving ability on benchmarks. | Self Evolution | [link](https://aclanthology.org/2024.emnlp-main.940.pdf) | 2024 | *ACL |
+| LLM-Evolve: Evaluation for LLM's Evolving Capability on Benchmarks | Proposes LLM - Evolve framework to evaluate LLMs' evolving ability on benchmarks. | Self Evolution | [link](https://aclanthology.org/2024.emnlp-main.940.pdf) | 2024 | *ACL |
 | Long Term Memory : The Foundation of AI Self-Evolution | This paper explores AI self - evolution with LTM, not on experimental performance. | Self Evolution | [link](https://arxiv.org/pdf/2410.15665) | 2024 | arxiv |
 | METEOR: Evolutionary Journey of Large Language Models from Guidance to Self-Growth | Propose Meteor method for model evolution with 3 training phases to maximize domain capabilities. | Self Evolution, Distillation | [link](https://arxiv.org/pdf/2411.11933) | 2024 | arxiv |
 | Promptbreeder: Self-referential self-improvement via prompt evolution | Promptbreeder self - improves prompts via self - referential evolution. | Self Evolution | [link](https://openreview.net/pdf?id=9ZxnPZGmPU) | 2024 | NIPS/ICML/ICLR |
